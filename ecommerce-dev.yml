@@ -1,5 +1,5 @@
 jwt:
-  secret: devbmR5Mi1zZWNyZXQtbmR5Mi1zZWNyZXQtbmR5Mi1zZWNyZXQtbmR5Mi1zZWNyZXQK
+  secret: bmR5Mi1zZWNyZXQtbmR5Mi1zZWNyZXQtbmR5Mi1zZWNyZXQtbmR5Mi1zZWNyZXQK
   token-validity-in-seconds: 86400
 
 gateway:
